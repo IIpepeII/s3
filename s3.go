@@ -1,7 +1,7 @@
 package s3
 
 import (
-	"chatbot/rest-api/models/validation"
+	"chatbot/core/models/validation"
 	"io"
 	"strings"
 	"time"
